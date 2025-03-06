@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1984Macintosh
   
-I’m interested in Almost everything that involves computers and technolgy. By the time I am writing this discription, I'm finishing my bachelor degree in Network Engineering at the University of Brasilia, Brazil.
+I’m interested in almost everything that involves computers and technolgy. By the time I am writing this discription, I'm finishing my bachelor degree in Network Engineering at the University of Brasilia, Brazil, and working at Banco do Brasil as a software developer. 
 
-My main focus in programming is C++, which I learned to love in University and it is the language I like the most. I enjoy studying mainly topics envolving networking, micro processors, telecommunications and C++.
+I enjoy studying mainly topics envolving networking, micro processors, cryptography, telecommunications and programming in general (especially C++, Java and low level programming).
 
 When I'm not studying computer science, I enjoy movies, playing videogames or reading books/mangas/comic books.
 
